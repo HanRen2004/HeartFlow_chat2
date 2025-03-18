@@ -16,3 +16,4 @@ typing
 ultralytics>=8.0.0
 opencv-python
 numpy
+pymongo>=3.12.0
